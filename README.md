@@ -11,5 +11,4 @@
   <img align="center" alt="MySQL"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="css"src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
-
 Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero. 🚀🤯
